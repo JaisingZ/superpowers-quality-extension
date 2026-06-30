@@ -1,0 +1,7 @@
+interface:
+  display_name: "Superpowers Quality Extension"
+  short_description: "Design, architecture, and verification quality gates"
+  default_prompt: "Use $superpowers-quality-extension to review this coding task for design, architecture, and verification quality gates."
+
+policy:
+  allow_implicit_invocation: true
